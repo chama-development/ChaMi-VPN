@@ -4,7 +4,8 @@
 
 Официальные приложения [Chama VPN](https://chama.cc)
 
-[![Скачать для Windows](https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20%D0%B4%D0%BB%D1%8F%20Windows-6D4AFF?style=for-the-badge)](https://github.com/chama-development/Chama-VPN/releases/latest/download/Chama-Windows-Setup.exe)
+[![Скачать для Windows](https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20%D0%B4%D0%BB%D1%8F%20Windows-6D4AFF?style=for-the-badge)](https://github.com/chama-development/Chama-VPN/releases/latest/download/Chama-Windows.exe)
+[![Скачать для Android](https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20%D0%B4%D0%BB%D1%8F%20Android-6D4AFF?style=for-the-badge)](https://github.com/chama-development/Chama-VPN/releases/latest/download/Chama-Android.apk)
 
 [![Версия](https://img.shields.io/github/v/release/chama-development/Chama-VPN?label=%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F&color=6D4AFF)](https://github.com/chama-development/Chama-VPN/releases/latest)
 [![Загрузки](https://img.shields.io/github/downloads/chama-development/Chama-VPN/total?label=%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8&color=2C2265)](https://github.com/chama-development/Chama-VPN/releases)
@@ -19,17 +20,24 @@
 
 | Платформа | Требования | |
 |:--|:--|:--|
-| 🪟 **Windows** | Windows 10 и 11, 64-бит | [**Скачать**](https://github.com/chama-development/Chama-VPN/releases/latest/download/Chama-Windows-Setup.exe) |
-| 🤖 **Android** | | Скоро |
+| 🪟 **Windows** | Windows 10 и 11, 64-бит | [**Скачать**](https://github.com/chama-development/Chama-VPN/releases/latest/download/Chama-Windows.exe) |
+| 🤖 **Android** | Android 8.0 и новее | [**Скачать**](https://github.com/chama-development/Chama-VPN/releases/latest/download/Chama-Android.apk) |
 
 ## 🚀 Установка
 
 ### Windows
 
-1. Скачайте и запустите `Chama-Windows-Setup.exe`. Установщик один раз попросит права администратора.
+1. Скачайте и запустите `Chama-Windows.exe`. Установщик один раз попросит права администратора.
 2. Если появится окно «Windows защитил ваш компьютер», нажмите **«Подробнее»** → **«Выполнить в любом случае»**.
 3. Скопируйте ссылку на подписку в личном кабинете на [chama.cc](https://chama.cc) и нажмите в приложении **«Вставить из буфера»**.
 4. Выберите локацию и подключитесь.
+
+### Android
+
+1. Скачайте `Chama-Android.apk` на телефон и откройте файл.
+2. Если Android попросит, разрешите браузеру установку приложений и нажмите **«Установить»**.
+3. Скопируйте ссылку на подписку в личном кабинете на [chama.cc](https://chama.cc) и нажмите в приложении **«Вставить»** — или отсканируйте QR-код из приложения на компьютере (**«Поделиться подпиской»**).
+4. Выберите локацию, нажмите кнопку подключения и разрешите VPN-подключение.
 
 Обновления приходят сами: приложение подскажет, когда выйдет новая версия.
 
@@ -38,6 +46,8 @@
 - ⚡ Подключение в одно нажатие
 - 🛡️ Kill switch — блокировка интернета при обрыве VPN
 - 🎯 Маршрутизация по приложениям
+- 📷 Добавление подписки по QR-коду
+- 🔘 Кнопка в шторке Android
 - 🔄 Автоматические обновления
 
 > Набор функций может отличаться в зависимости от платформы.
