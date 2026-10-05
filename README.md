@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/logo.png" alt="Логотип ChaMi VPN" width="160" />
+
 # ChaMi VPN
 
 Официальные приложения [ChaMi VPN](https://chama.cc) для Windows и Android.
