@@ -50,8 +50,8 @@
 - 📊 Информация о подписке: использованный трафик и срок действия.
 - 🎯 Маршрутизация по приложениям: выбранные приложения через VPN или в обход него. На Windows доступна в режиме TUN.
 - 📷 Сканирование QR-кода подписки на Android и обмен подпиской между устройствами.
-- 🔘 Плитка VPN в быстрых настройках Android.
 - 🪟 Системный прокси, режим TUN, значок в трее и автозапуск на Windows.
+- 🔘 Плитка VPN в быстрых настройках Android.
 - 🔄 Проверка обновлений и предложение установить новую версию.
 
 ### 🛡️ Защита при обрыве подключения
@@ -78,7 +78,6 @@ Telegram: [@Chama_VPN_support_bot](https://t.me/Chama_VPN_support_bot)
 
 <div align="center">
 
-<sub>Работает на <a href="https://github.com/XTLS/Xray-core">Xray-core</a>.
-В Windows для режима TUN используется <a href="https://github.com/SagerNet/sing-box">sing-box</a>.</sub>
+<sub>Работает на <a href="https://github.com/XTLS/Xray-core">Xray-core</a> и <a href="https://github.com/SagerNet/sing-box">sing-box</a>.</sub>
 
 </div>
