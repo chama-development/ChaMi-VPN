@@ -21,8 +21,8 @@
 
 | Платформа | Требования | Скачать |
 |:--|:--|:--|
-| 🪟 **Windows** | Windows 10 или 11, 64-бит | [**Установщик EXE**](https://github.com/chama-development/Chama-VPN/releases/latest/download/Chama-Windows.exe) |
-| 🤖 **Android** | Android 8.0 и новее | [**Приложение APK**](https://github.com/chama-development/Chama-VPN/releases/latest/download/Chama-Android.apk) |
+| **Windows** | Windows 10/11, 64-бит | [**Установщик EXE**](https://github.com/chama-development/Chama-VPN/releases/latest/download/Chama-Windows.exe) |
+| **Android** | Android 8.0 и новее | [**Приложение APK**](https://github.com/chama-development/Chama-VPN/releases/latest/download/Chama-Android.apk) |
 
 Все версии доступны в разделе [Releases](https://github.com/chama-development/Chama-VPN/releases).
 
@@ -78,6 +78,7 @@ Telegram: [@Chama_VPN_support_bot](https://t.me/Chama_VPN_support_bot)
 
 <div align="center">
 
-<sub>Работает на <a href="https://github.com/XTLS/Xray-core">Xray-core</a>. В Windows для режима TUN используется <a href="https://github.com/SagerNet/sing-box">sing-box</a>.</sub>
+<sub>Работает на <a href="https://github.com/XTLS/Xray-core">Xray-core</a>.
+В Windows для режима TUN используется <a href="https://github.com/SagerNet/sing-box">sing-box</a>.</sub>
 
 </div>
