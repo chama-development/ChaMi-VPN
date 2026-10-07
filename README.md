@@ -78,6 +78,6 @@ Telegram: [@Chama_VPN_support_bot](https://t.me/Chama_VPN_support_bot)
 
 <div align="center">
 
-<sub>Работает на <a href="https://github.com/XTLS/Xray-core">Xray-core</a> и <a href="https://github.com/SagerNet/sing-box">sing-box</a>.</sub>
+<sub>Приложение работает на <a href="https://github.com/XTLS/Xray-core">Xray-core</a> и <a href="https://github.com/SagerNet/sing-box">sing-box</a>.</sub>
 
 </div>
