@@ -4,7 +4,7 @@
 
 # ChaMi VPN
 
-Официальные приложения [ChaMi VPN](https://chama.cc) для Windows и Android.
+Официальные приложения [ChaMi VPN](https://chama.cc) для Windows, Android и Android TV.
 
 [![Скачать для Windows](https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20%D0%B4%D0%BB%D1%8F%20Windows-0078D4?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMy40NSA5Ljc1IDIuMXY5LjQySDB6TTEwLjk1IDEuOTMgMjQgMHYxMS41MkgxMC45NXpNMCAxMi42aDkuNzV2OS40NUwwIDIwLjd6TTEwLjk1IDEyLjZIMjRWMjRsLTEzLjA1LTEuODV6Ii8%2BPC9zdmc%2B)](https://github.com/chama-development/ChaMi-VPN/releases/latest/download/ChaMi-Windows.exe)
 [![Скачать для Android](https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20%D0%B4%D0%BB%D1%8F%20Android-2E9E5B?style=for-the-badge&logo=android&logoColor=white)](https://github.com/chama-development/ChaMi-VPN/releases/latest/download/ChaMi-Android.apk)
@@ -23,6 +23,7 @@
 |:--|:--|:--|
 | **Windows** | Windows 10/11, 64-бит | [**Установщик EXE**](https://github.com/chama-development/ChaMi-VPN/releases/latest/download/ChaMi-Windows.exe) |
 | **Android** | Android 8.0 и новее | [**Приложение APK**](https://github.com/chama-development/ChaMi-VPN/releases/latest/download/ChaMi-Android.apk) |
+| **Android TV** | Android TV 8.0 и новее | [**Тот же APK**](https://github.com/chama-development/ChaMi-VPN/releases/latest/download/ChaMi-Android.apk) — на телевизоре приложение само включит интерфейс для пульта |
 
 Все версии доступны в разделе [Releases](https://github.com/chama-development/ChaMi-VPN/releases).
 
@@ -42,6 +43,15 @@
 3. Скопируйте ссылку на подписку из личного кабинета на [chama.cc](https://chama.cc) и нажмите **«Вставить из буфера»**. Можно ввести ссылку вручную или выбрать **«Сканировать QR-код»** и отсканировать код с другого устройства.
 4. Выберите локацию, нажмите кнопку подключения и подтвердите системный запрос на создание VPN-подключения.
 
+### Android TV
+
+1. Установите приложение на телевизор или приставку одним из способов:
+   - через приложение **Downloader** из Google Play: введите адрес `github.com/chama-development/ChaMi-VPN/releases/latest/download/ChaMi-Android.apk`;
+   - с флешки: скопируйте на неё `ChaMi-Android.apk` и откройте файл любым файловым менеджером на TV.
+2. Если Android TV попросит, разрешите установку приложений из Downloader или файлового менеджера.
+3. Откройте ChaMi на телевизоре: на экране появится QR-код. В ChaMi на телефоне откройте **«Поделиться подпиской»** → **«Отправить на TV»** и отсканируйте этот код. Телефон и телевизор должны быть в одной сети. Подписку можно ввести и вручную пультом: **«Ввести вручную»**.
+4. Выберите локацию и нажмите кнопку подключения пультом.
+
 Чтобы перенести подписку с компьютера на телефон, откройте **«Поделиться подпиской»** в Windows-приложении и отсканируйте QR-код Android-приложением.
 
 ## ✨ Возможности
@@ -52,19 +62,22 @@
 - 📷 Сканирование QR-кода подписки на Android и обмен подпиской между устройствами.
 - 🪟 Системный прокси, режим TUN, значок в трее и автозапуск на Windows.
 - 🔘 Плитка VPN в быстрых настройках Android.
+- 📺 Android TV: управление пультом и передача подписки с телефона по QR-коду. Ссылка передаётся по домашней сети в зашифрованном виде.
 - 🔄 Проверка обновлений и предложение установить новую версию.
 
 ### 🛡️ Защита при обрыве подключения
 
 **Windows:** kill switch доступен в режиме TUN через установленную службу и блокирует обычный интернет-трафик при потере VPN до восстановления подключения или отключения пользователем. Он недоступен в режиме «VPN только для выбранных приложений». При аварийном завершении самой службы непрерывная блокировка не гарантируется.
 
-**Android:** для блокировки трафика без VPN используйте системные настройки **«Постоянная VPN»** и **«Блокировать подключения без VPN»**, если они доступны на вашем устройстве. Названия пунктов зависят от производителя. При такой блокировке приложения, исключённые из VPN, могут потерять доступ к интернету.
+**Android:** для блокировки трафика без VPN используйте системные настройки **«Постоянная VPN»** и **«Блокировать подключения без VPN»**, если они доступны на вашем устройстве. Названия пунктов зависят от производителя. При такой блокировке приложения, исключённые из VPN, могут потерять доступ к интернету. На Android TV таких пунктов обычно нет.
 
 ## 🔄 Обновления
 
 Приложения проверяют наличие новых версий и предлагают обновление. Подпись данных обновления и контрольная сумма скачанного файла проверяются перед установкой.
 
 Обновление также можно установить вручную: скачайте новый EXE или APK из [последнего релиза](https://github.com/chama-development/ChaMi-VPN/releases/latest) и установите поверх текущей версии. Удалять приложение перед обновлением не нужно.
+
+На Android TV при первом обновлении ChaMi откроет пункт настроек **«Установка неизвестных приложений»**: разрешите его для ChaMi и нажмите **«Обновить»** ещё раз.
 
 ## 📄 Документы
 
