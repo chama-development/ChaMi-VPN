@@ -23,7 +23,7 @@
 |:--|:--|:--|
 | **Windows** | Windows 10/11, 64-бит | [**Установщик EXE**](https://github.com/chama-development/ChaMi-VPN/releases/latest/download/ChaMi-Windows.exe) |
 | **Android** | Android 8.0 и новее | [**Приложение APK**](https://github.com/chama-development/ChaMi-VPN/releases/latest/download/ChaMi-Android.apk) |
-| **Android TV** | Android TV 8.0 и новее | [**Тот же APK**](https://github.com/chama-development/ChaMi-VPN/releases/latest/download/ChaMi-Android.apk) — на телевизоре приложение само включит интерфейс для пульта |
+| **Android TV** | Android TV 8.0 и новее | [**Тот же APK**](https://github.com/chama-development/ChaMi-VPN/releases/latest/download/ChaMi-Android.apk) |
 
 Все версии доступны в разделе [Releases](https://github.com/chama-development/ChaMi-VPN/releases).
 
