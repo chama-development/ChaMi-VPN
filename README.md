@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="ChaMi VPN — приложения для Windows, macOS, Android и Android TV" width="100%" />
+<img src="assets/banner.png" alt="ChaMi VPN — Windows, macOS, Android, Android TV" width="100%" />
 
 <br />
 
