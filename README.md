@@ -7,7 +7,7 @@
 Официальные приложения [ChaMi VPN](https://chama.cc) для Windows, macOS, Android и Android TV.
 
 [![Скачать для Windows](https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20%D0%B4%D0%BB%D1%8F%20Windows-0078D4?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMy40NSA5Ljc1IDIuMXY5LjQySDB6TTEwLjk1IDEuOTMgMjQgMHYxMS41MkgxMC45NXpNMCAxMi42aDkuNzV2OS40NUwwIDIwLjd6TTEwLjk1IDEyLjZIMjRWMjRsLTEzLjA1LTEuODV6Ii8%2BPC9zdmc%2B)](https://github.com/chama-development/ChaMi-VPN/releases/latest/download/ChaMi-Windows.exe)
-[![Скачать для macOS](https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20%D0%B4%D0%BB%D1%8F%20macOS-6D4AFF?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/chama-development/ChaMi-VPN/releases/latest/download/ChaMi-macOS.dmg)
+[![Скачать для macOS](https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20%D0%B4%D0%BB%D1%8F%20macOS-6E6E73?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/chama-development/ChaMi-VPN/releases/latest/download/ChaMi-macOS.dmg)
 [![Скачать для Android](https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20%D0%B4%D0%BB%D1%8F%20Android-2E9E5B?style=for-the-badge&logo=android&logoColor=white)](https://github.com/chama-development/ChaMi-VPN/releases/latest/download/ChaMi-Android.apk)
 
 [![Версия](https://img.shields.io/github/v/release/chama-development/ChaMi-VPN?label=%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F&color=6D4AFF)](https://github.com/chama-development/ChaMi-VPN/releases/latest)
