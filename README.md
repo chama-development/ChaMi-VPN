@@ -32,19 +32,6 @@
 
 Все версии — в разделе [Releases](https://github.com/chama-development/ChaMi-VPN/releases).
 
-## 📸 Как это выглядит
-
-<table>
-  <tr>
-    <td width="50%"><img src="assets/screenshots/macos-servers.png" alt="ChaMi VPN для macOS: список серверов" /></td>
-    <td width="50%"><img src="assets/screenshots/macos-onboarding.png" alt="ChaMi VPN для macOS: добавление подписки" /></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Локации, трафик и срок подписки</sub></td>
-    <td align="center"><sub>Подписка добавляется одной вставкой</sub></td>
-  </tr>
-</table>
-
 ## ✨ Возможности
 
 <table>
