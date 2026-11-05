@@ -1,6 +1,10 @@
 <div align="center">
 
-**Официальные приложения [ChaMi VPN](https://chama.cc) для Windows, macOS, Android и Android TV**
+<img src="assets/logo.png" alt="Логотип ChaMi VPN" width="88" />
+
+# ChaMi VPN
+
+**Официальные приложения для Windows, macOS, Android и Android TV**
 
 <br />
 
@@ -8,25 +12,43 @@
 [![Скачать для macOS](https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20%D0%B4%D0%BB%D1%8F%20macOS-6E6E73?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/chama-development/ChaMi-VPN/releases/latest/download/ChaMi-macOS.dmg)
 [![Скачать для Android](https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20%D0%B4%D0%BB%D1%8F%20Android-2E9E5B?style=for-the-badge&logo=android&logoColor=white)](https://github.com/chama-development/ChaMi-VPN/releases/latest/download/ChaMi-Android.apk)
 
-[![Версия](https://img.shields.io/github/v/release/chama-development/ChaMi-VPN?label=%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F&color=6D4AFF&style=flat-square)](https://github.com/chama-development/ChaMi-VPN/releases/latest)
 [![Telegram](https://img.shields.io/badge/%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Chama_VPN_support_bot)
 
 Нет подписки? Попробуйте бесплатно на **[chama.cc](https://chama.cc)**
 
+<p>
+  <a href="#download">Скачать</a>
+  &nbsp;·&nbsp;
+  <a href="#features">Возможности</a>
+  &nbsp;·&nbsp;
+  <a href="#install">Установка</a>
+  &nbsp;·&nbsp;
+  <a href="#updates">Обновления</a>
+  &nbsp;·&nbsp;
+  <a href="#support">Поддержка</a>
+</p>
+
 </div>
 
-<br />
+<a id="download"></a>
 
 ## 📥 Скачать
 
-| | Платформа | Требования | Файл |
-|:-:|:--|:--|:--|
-| 💻 | **Windows** | Windows 10/11, 64-бит | [**Установщик EXE**](https://github.com/chama-development/ChaMi-VPN/releases/latest/download/ChaMi-Windows.exe) |
-| 🍏 | **macOS** | macOS 14 Sonoma и новее · Apple Silicon и Intel | [**Образ DMG**](https://github.com/chama-development/ChaMi-VPN/releases/latest/download/ChaMi-macOS.dmg) |
-| 🤖 | **Android** | Android 8.0 и новее | [**Приложение APK**](https://github.com/chama-development/ChaMi-VPN/releases/latest/download/ChaMi-Android.apk) |
-| 📺 | **Android TV** | Android TV 8.0 и новее | [**Тот же APK**](https://github.com/chama-development/ChaMi-VPN/releases/latest/download/ChaMi-Android.apk) |
+У Windows, macOS и Android свои номера версий. Заголовок релиза на GitHub называет платформу этого выпуска.
 
-Все версии — в разделе [Releases](https://github.com/chama-development/ChaMi-VPN/releases).
+Сейчас последний релиз — [v1.3.38 «ChaMi VPN 1.3.38 for Android»](https://github.com/chama-development/ChaMi-VPN/releases/tag/v1.3.38) от 4 ноября 2026. Кнопки на странице ведут на файлы последнего релиза (`/releases/latest/download/…`). Пока последний — v1.3.38, эти файлы совпадают по размеру и контрольной сумме с каналами обновлений `update-windows.json`, `update-macos.json` и `update-android.json`.
+
+| | Платформа | Версия | Требования | Файл |
+|:-:|:--|:--|:--|:--|
+| 💻 | **Windows** | **1.3.32** | Windows 10/11, 64-бит | [**Установщик EXE**](https://github.com/chama-development/ChaMi-VPN/releases/latest/download/ChaMi-Windows.exe) |
+| 🍏 | **macOS** | **1.3.17** | macOS 14 Sonoma и новее · Apple Silicon и Intel | [**Образ DMG**](https://github.com/chama-development/ChaMi-VPN/releases/latest/download/ChaMi-macOS.dmg) |
+| 🤖 | **Android** | **1.3.38** | Android 8.0 и новее | [**Приложение APK**](https://github.com/chama-development/ChaMi-VPN/releases/latest/download/ChaMi-Android.apk) |
+| 📺 | **Android TV** | **1.3.38** | Android TV 8.0 и новее | [**Тот же APK**](https://github.com/chama-development/ChaMi-VPN/releases/latest/download/ChaMi-Android.apk) |
+
+> [!NOTE]
+> Новый релиз может обновить одну платформу и сменить заголовок. Ссылки `latest` перейдут на его файлы, а цифры в таблице описывают v1.3.38, пока эту страницу не обновят. Живой номер — в проверке обновлений внутри ChaMi и в тексте выпуска. Все выпуски — в разделе [Releases](https://github.com/chama-development/ChaMi-VPN/releases).
+
+<a id="features"></a>
 
 ## ✨ Возможности
 
@@ -65,7 +87,16 @@
 **🍏 macOS** — значок в строке меню, автозапуск и горячие клавиши.<br />
 **🤖 Android** — плитка VPN в быстрых настройках.
 
+<a id="install"></a>
+
 ## 🚀 Установка
+
+Ссылка на подписку копируется из личного кабинета на [chama.cc](https://chama.cc).
+
+- **Windows** — установщик просит права администратора. Если SmartScreen предупредит, проверьте, что файл скачан из этого репозитория. Kill switch есть в режиме TUN и отсутствует в режиме «VPN только для выбранных приложений».
+- **macOS** — приложение не заверено Apple: первый запуск подтверждается в «Конфиденциальность и безопасность». ChaMi работает через системный прокси, поэтому другой включённый VPN его перекрывает. Режим TUN и kill switch появятся в следующих версиях.
+- **Android** — система попросит разрешить установку APK. Пункты «Постоянная VPN» и «Блокировать подключения без VPN» зависят от производителя.
+- **Android TV** — ставится тот же APK. Подписку можно передать с телефона по QR-коду, оба устройства в одной сети. Системной блокировки трафика без VPN на TV обычно нет.
 
 <details>
 <summary><b>💻 Windows</b></summary>
@@ -119,6 +150,8 @@
 > [!TIP]
 > Чтобы перенести подписку с компьютера на телефон, откройте **«Поделиться подпиской»** в приложении для Windows или macOS и отсканируйте QR-код Android-приложением.
 
+<a id="protect"></a>
+
 ## 🛡️ Защита при обрыве подключения
 
 | Платформа | Как работает |
@@ -127,26 +160,42 @@
 | **macOS** | Kill switch пока недоступен: приложение работает через системный прокси, и программы, которые его не используют, подключаются в обход VPN. Режим TUN с kill switch появится в следующих версиях. |
 | **Android** | Для блокировки трафика без VPN используйте системные настройки **«Постоянная VPN»** и **«Блокировать подключения без VPN»**, если они доступны на вашем устройстве. Названия пунктов зависят от производителя. При такой блокировке приложения, исключённые из VPN, могут потерять доступ к интернету. На Android TV таких пунктов обычно нет. |
 
+<a id="updates"></a>
+
 ## 🔄 Обновления
 
-Приложения проверяют наличие новых версий и предлагают обновление. Подпись данных обновления и контрольная сумма скачанного файла проверяются перед установкой.
+Приложения проверяют наличие новых версий и предлагают обновление. Подпись данных обновления и контрольная сумма скачанного файла проверяются перед установкой. Эта проверка знает версию своей платформы: заголовок релиза на GitHub может относиться к другому приложению.
 
-Обновление также можно установить вручную: скачайте новый EXE, DMG или APK из [последнего релиза](https://github.com/chama-development/ChaMi-VPN/releases/latest) и установите поверх текущей версии. Удалять приложение перед обновлением не нужно.
+Обновление также можно поставить вручную: скачайте EXE, DMG или APK своей платформы из [Releases](https://github.com/chama-development/ChaMi-VPN/releases) и установите поверх текущей версии. Удалять приложение перед обновлением не нужно.
 
 - **macOS:** версия 1.0.0 не умеет обновляться сама — один раз скачайте новый DMG и перетащите ChaMi VPN в «Программы» с заменой. Начиная с 1.0.1 обновления приходят автоматически.
 - **Android TV:** при первом обновлении ChaMi откроет пункт настроек **«Установка неизвестных приложений»** — разрешите его для ChaMi и нажмите **«Обновить»** ещё раз.
 
+<a id="support"></a>
+
 ## 💬 Поддержка
 
-Вопросы и проблемы — в Telegram: **[@Chama_VPN_support_bot](https://t.me/Chama_VPN_support_bot)**
+Вопросы и проблемы с приложением — в Telegram: **[@Chama_VPN_support_bot](https://t.me/Chama_VPN_support_bot)**
+
+Подписка и оплата — в боте **[@Chama_VPN_bot](https://t.me/Chama_VPN_bot)**. Ссылку на подписку приложение берёт из личного кабинета на [chama.cc](https://chama.cc).
+
+Об уязвимости напишите в поддержку. Как это сделать — в [SECURITY.md](SECURITY.md).
+
+<a id="legal"></a>
+
+## 📄 Документы
+
+Здесь страница загрузки и официальные сборки. Условия сервиса опубликованы отдельно:
+
+- [Условия использования](https://telegra.ph/Usloviya-ispolzovaniya-Chama-VPN-10-02)
+- [Политика конфиденциальности](https://telegra.ph/Politika-konfidencialnosti-Chama-VPN-10-02)
+- [Лицензии открытых компонентов](https://telegra.ph/Licenzii-Chama-VPN-10-02)
 
 <br />
 
 <div align="center">
 
-<img src="assets/logo.png" alt="" width="56" />
-
-<sub>[Условия использования](https://telegra.ph/Usloviya-ispolzovaniya-Chama-VPN-10-02) · [Политика конфиденциальности](https://telegra.ph/Politika-konfidencialnosti-Chama-VPN-10-02) · [Лицензии](https://telegra.ph/Licenzii-Chama-VPN-10-02)</sub>
+<sub><a href="https://telegra.ph/Usloviya-ispolzovaniya-Chama-VPN-10-02">Условия использования</a> · <a href="https://telegra.ph/Politika-konfidencialnosti-Chama-VPN-10-02">Политика конфиденциальности</a> · <a href="https://telegra.ph/Licenzii-Chama-VPN-10-02">Лицензии</a> · <a href="SECURITY.md">Безопасность</a></sub>
 
 <sub>Приложения работают на <a href="https://github.com/XTLS/Xray-core">Xray-core</a> и <a href="https://github.com/SagerNet/sing-box">sing-box</a></sub>
 
