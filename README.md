@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="ChaMi VPN — официальные приложения для Windows, macOS, Android и Android TV" width="100%" />
+<img src="assets/logo.png" alt="Логотип ChaMi VPN" width="88" />
+
+# ChaMi VPN
+
+**Официальные приложения для Windows, macOS, Android и Android TV**
 
 <br />
 
